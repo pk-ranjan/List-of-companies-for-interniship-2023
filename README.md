@@ -1,6 +1,5 @@
 # List-of-companies-for-interniship-2023
 
-- Mastercard
 - Uber
 - Amazon
 - Google
@@ -10,4 +9,7 @@
 - DRW
 - Salesforce
 - CITADEL
-- 
+- Hewlett Packard Enterprise
+- Instabase
+- Oracle
+- and many more..
